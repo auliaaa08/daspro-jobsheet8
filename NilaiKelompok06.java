@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class NilaiKelompok06 {
 
     public static void main(String[] args) {
