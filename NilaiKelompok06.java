@@ -31,8 +31,7 @@ public class NilaiKelompok06 {
             i++;
         }
 
-        System.out.println("Kelompok dengan nilai rata-rata tertinggi: " + kelompokTertinggi);
-        System.out.println("Kelompok " + kelompokTertinggi + " dengan nilai rata-rata = " + rataTertinggi);
+        System.out.println("Kelompok dengan nilai rata-rata tertinggi " + kelompokTertinggi + " dengan nilai rata-rata " + rataTertinggi);
         
     }
 }
